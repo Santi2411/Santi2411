@@ -1,7 +1,7 @@
 #  `👋 Hi, I’m Santiago González, a passionate fullstack developer from Argentina.`
 
 
-- :computer: I’m currently working on [Estudio Rocha y Asociados](https://www.estudiorochayasoc.com).
+- :computer: I am currently unemployed.
 
 - :mortar_board: Since 2020 I´m studying to become a Programming Technician.
 
