@@ -3,7 +3,7 @@
 
 - :computer: I am currently unemployed.
 
-- :mortar_board: Since 2020 I´m studying to become a Programming Technician.
+- :mortar_board: Since 2022 I´m graduated as a Programming Technician.
 
 - :school_satchel: I’m currently learning several programming languages, tools and methodologies: **NodeJS, ExpressJS, TypeScript, MongoDB, REST API, Software Architecture**.
 
