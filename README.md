@@ -1,7 +1,7 @@
 #  `👋 Hi, I’m Santiago González, a passionate fullstack developer from Argentina.`
 
 
-- :computer: I am currently unemployed.
+- :computer: Currently working for [ComparaOnline](https://www.comparaonline.com) as Backend Developer.
 
 - :mortar_board: Since 2022 I´m graduated as a Programming Technician.
 
